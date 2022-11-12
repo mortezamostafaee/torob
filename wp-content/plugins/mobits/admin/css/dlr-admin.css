@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+.dlr_setting, .dlr_setting h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#dlr_setting_wrapper {
+    /*font-weight: bold !important;*/
+}
+
+#dlr_setting_wrapper .dashicons {
+    position: relative;
+    top: 4px;
+}
+
+.dlr_resend_code {
+    width: 100px !important;
+    min-width: 100px !important;
+}
+
+#dlr_setting_wrapper .dashicons-admin-plugins {
+    font-size: 24px;
+    top: 1px;
+}
+
+#dlr_setting_wrapper th {
+    font-weight: normal;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+#dlr_setting_wrapper label {
+    font-weight: bold;
+    font-size: 14px;
+    position: relative;
+    top: 2px;
+    margin-top: 2px !important;
+}
+
+.text-left {
+    text-align: left;
+    direction: ltr;
+}
+
+select[name=_dlr_sms_service] {
+    min-width: 175px;
+}
+
+input[type=password] {
+    padding: 0 3px !important;
+    line-height: 1;
+    min-height: 27px;
+    border-radius: 3px !important;
+}
+
+textarea[readonly] {
+    background: #fff !important;
+}
+
+.dlr_setting {
+    background: #fff;
+    /*padding: 20px;*/
+    border-radius: 10px;
+    box-shadow: 0 5px 15px #ddd;
+    margin-top: 22px;
+}
+
+.dlr_setting *, .dlr_setting input {
+    box-sizing: border-box !important;
+}
+
+.dlr_setting h1 span {
+    font-size: 13px;
+    font-weight: normal;
+    float: right;
+    /*margin-top: 13px;*/
+}
+
+.dlr_setting h1 bdi.version {
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.dlr_setting h1 bdi.telegram {
+    float: left;
+    margin-top: 8px;
+    /*font-size: 14px;*/
+    color: #000;
+}
+
+.dlr_setting #submit {
+    padding: 3px 15px;
+    font-size: 13px;
+    margin-top: 28px;
+    border-radius: 30px;
+    margin-bottom: 15px;
+}
+
+.dlr_setting #submit:focus {
+    border: 1px solid #fc037f;
+    box-shadow: none;
+}
+
+.dlr_setting h1 span a {
+    text-decoration: none;
+}
+
+.dlr_setting nav {
+    background: #fc037f;
+    padding: 4px 10px 0;
+    border-bottom: none;
+}
+
+.dlr_setting form {
+    padding-right: 21px;
+    padding-left: 21px;
+}
+
+.dlr_setting input[type=text], .dlr_setting input[type=password], .dlr_setting .regular-text, .dlr_setting select {
+    height: 40px;
+    border: 1px solid #ccc;
+    padding: 10px !important;
+    min-width: 350px;
+}
+
+.dlr_setting .dlr_extra_style {
+    border: 1px solid #ccc;
+    padding: 10px !important;
+    min-width: 350px;
+}
+
+.dlr_setting .pattern {
+    border: 1px solid #ccc;
+    padding: 10px !important;
+    background: #eee !important;
+    min-width: 350px;
+    min-height: 100px;
+}
+
+.dlr_setting th {
+    line-height: 26px;
+    padding: 13px 10px 20px 0;
+}
+
+.dlr_setting select {
+    padding-top: 5px !important;
+}
+
+.dlr_setting .nav-tab {
+    padding: 9px 15px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background: #fc037f;
+    color: #fff;
+    border: none;
+    font-size: 13px;
+    outline: none;
+    transition: .3s;
+}
+
+.dlr_setting .button-primary {
+    background: #fc037f;
+    border-color: #fc037f;
+    transition: .3s;
+}
+
+.dlr_setting .button-primary:hover, .dlr_setting .button-primary:focus
+ {
+    background: #d40069;
+    border-color: #d40069;
+    transition: .3s;
+}
+
+.dlr_setting a:focus {
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.dlr_setting p {
+    font-size: 13px !important;
+    color: #000 !important;
+    margin-top: 5px !important;
+    max-width: 70%;
+    font-weight: normal;
+}
+
+.dlr_setting .nav-tab:hover {
+    background: #fff;
+    color: #000;
+    transition: .3s;
+}
+
+.dlr_setting h1 {
+    padding: 20px 20px 7px 20px;
+    margin-bottom: 15px;
+    width: 100%;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.dlr_setting .nav-tab-active {
+    background: #fff;
+    color: #000;
+    /*border: 1px solid #aaa;*/
+    border-bottom: none;
+}
+
+.mce-panel.mce-stack-layout-item {
+    /*border-right: 1px solid #ddd !important;*/
+}
+
+.dlr_setting button {
+    height: 40px;
+}

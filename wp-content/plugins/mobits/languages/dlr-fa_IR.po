@@ -1,0 +1,706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mobits\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-07 14:53+0000\n"
+"PO-Revision-Date: 2022-01-27 19:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.7; wp-5.9\n"
+"X-Domain: dlr"
+
+#: admin/partials/sections/dlr_settings_functional.php:51
+msgid ""
+"<strong>Important Note:</strong> Permalink structure should not be simple. "
+"To change it, go to the settings menu and the unique links submenu and "
+"change the simple option. Your current login page link "
+msgstr ""
+"<strong>نکته مهم:</strong> ساختار پیوند ثابت نباید ساده باشد. برای تغییر آن "
+"به منوی تنظیمات و زیر منوی پیوندهای یکتا رفته و گزینه ساده را تغییر دهید. "
+"پیوند صفحه ورود فعلی شما"
+
+#: admin/partials/sections/dlr_settings_design.php:46
+msgid ""
+"A png image with a width of 200 pixels and a height of 60 pixels is "
+"recommended "
+msgstr "تصویر png با عرض 200 پیکسل و ارتفاع 60 پیکسل توصیه می شود"
+
+#: admin/partials/sections/dlr_settings_functional.php:25
+#: admin/partials/sections/dlr_settings_functional.php:37
+#: admin/partials/sections/dlr_settings_functional.php:68
+#: admin/partials/sections/dlr_settings_functional.php:96
+#: admin/partials/sections/dlr_settings_functional.php:108
+#: admin/partials/sections/dlr_settings_functional.php:148
+#: admin/partials/sections/dlr_settings_functional.php:162
+#: admin/partials/sections/dlr_settings_functional.php:174
+#: admin/partials/sections/dlr_settings_functional.php:201
+#: admin/partials/sections/dlr_settings_functional.php:213
+#: admin/partials/sections/dlr_settings_woocommerce.php:17
+#: admin/partials/sections/dlr_settings_woocommerce.php:31
+#: admin/partials/sections/dlr_settings_woocommerce.php:45
+#: admin/partials/sections/dlr_settings_woocommerce.php:59
+#: admin/partials/sections/dlr_settings_woocommerce.php:73
+#: admin/partials/sections/dlr_settings_design.php:90
+#: admin/partials/sections/dlr_settings_design.php:127
+#: admin/partials/sections/dlr_settings_captcha.php:16
+#: admin/partials/sections/dlr_settings_captcha.php:30
+#: admin/partials/sections/dlr_settings_captcha.php:44
+msgid "Active"
+msgstr "فعال"
+
+#: public/partials/partials/register-form.php:87
+#: public/partials/partials/login-form.php:89
+msgid "Already registered by email or username?"
+msgstr "قبلاً از طریق ایمیل یا نام کاربری ثبت نام کرده اید؟"
+
+#: admin/partials/sections/sms/smsir.php:20
+msgid "Api key"
+msgstr "کلید وب سرویس (API key)"
+
+#: admin/partials/sections/dlr_settings_functional.php:143
+msgid "Auto redirect after code entered "
+msgstr "تغییر مسیر خودکار پس از وارد کردن کد"
+
+#: admin/partials/sections/dlr_settings_design.php:69
+msgid "Background image"
+msgstr "تصویر پس زمینه"
+
+#: admin/partials/sections/dlr_settings_design.php:85
+msgid "Button's Background image"
+msgstr "تصویر پس زمینه دکمه ها"
+
+#: admin/partials/sections/dlr_settings_design.php:100
+msgid "Button's color"
+msgstr "رنگ دکمه ها"
+
+#: admin/partials/sections/dlr_settings_captcha.php:18
+msgid ""
+"By activating this option, Captcha will be activated in the login form. "
+msgstr "با فعال بودن این گزینه، کپچای گوگل در فرم ورود موبیتس فعال می شود."
+
+#: admin/partials/sections/dlr_settings_captcha.php:46
+msgid ""
+"By activating this option, Captcha will be activated in the recovery form. "
+msgstr "با فعال بودن این گزینه، کپچای گوگل در فرم ثبت نام موبیتس فعال می شود."
+
+#: admin/partials/sections/dlr_settings_captcha.php:32
+msgid ""
+"By activating this option, Captcha will be activated in the register form. "
+msgstr "با فعال بودن این گزینه، کپچای گوگل در فرم ریکاوری موبیتس فعال می شود."
+
+#: admin/partials/sections/dlr_settings_functional.php:71
+msgid ""
+"By activating this option, the Mobits login form registers new users. Note "
+"that in this case, the user will not have a first and last name. "
+msgstr ""
+"با فعال کردن این گزینه، فرم ورود موبیتس، کاربران جدید را ثبت نام می کند. "
+"توجه کنید که در این حالت، کاربر دارای نام و نام خانوادگی نخواهد بود."
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:61
+#| msgid ""
+#| "By activating this option, the user's mobile number is stored in the "
+#| "default invoice and shipping address of the customer."
+msgid ""
+"By activating this option, the user's mobile number is stored in the default "
+"billing and shipping address of the customer."
+msgstr ""
+"با فعال کردن این گزینه، شماره موبایل کاربر در فیلد تلفن صورتحساب و حمل و نقل "
+"مشتری ذخیره می شود."
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:75
+msgid ""
+"By activating this option, the user's name is stored in the default billing "
+"and shipping name field of the customer."
+msgstr ""
+"با فعال بودن این گزینه، نام و نام خانوادگی کاربر ثبت نام شده در فیلد نام "
+"تسویه حساب و حمل و نقل ووکامرس ذخیره می گردد."
+
+#: admin/partials/sections/dlr_settings_functional.php:27
+msgid "By enabling this option, login tab and form will be displayed."
+msgstr ""
+"با فعال کردن این گزینه، تب ورود و فرم آن نمایش داده می شود.\n"
+
+#: admin/partials/sections/dlr_settings_functional.php:39
+msgid "By enabling this option, Register tab and form will be displayed."
+msgstr "با فعال کردن این گزینه، تب ثبت نام و فرم آن نمایش داده می شود."
+
+#: admin/partials/sections/dlr_settings_functional.php:151
+msgid ""
+"By enabling this option, the user, after entering 4 digits of the code, will "
+"be automatically transferred to the next step without pressing a button."
+msgstr ""
+"با فعال کردن این گزینه کاربر پس از وارد کردن 4 رقم کد به صورت خودکار و بدون "
+"فشار دادن دکمه به مرحله بعدی منتقل می شود."
+
+#: admin/partials/sections/dlr_settings_functional.php:98
+msgid ""
+"By enabling this option, you will allow your old users who have registered "
+"with a username to have their mobile number replaced with a username, and "
+"from now on they can log in with a mobile number."
+msgstr ""
+"با فعال کردن این گزینه به کاربران قدیمی خود که با نام کاربری ثبت نام کرده "
+"اند اجازه می دهید شماره موبایل خود را با نام کاربری جایگزین کنند و از این پس "
+"با شماره موبایل وارد شوند."
+
+#: admin/partials/sections/dlr_settings_functional.php:164
+msgid ""
+"By enabling this option, you will need to log in to view all sections of the "
+"site, and the user will be taken to the Mobits login page."
+msgstr ""
+"با فعال کردن این گزینه برای مشاهده تمامی بخش های سایت باید وارد شوید و کاربر "
+"به صفحه ورود موبیتس هدایت می شود."
+
+#: admin/partials/sections/dlr_settings_design.php:27
+msgid "Classic"
+msgstr "کلاسیک"
+
+#: admin/partials/sections/dlr_settings_functional.php:103
+msgid "CSV export numbers"
+msgstr "خروجی اکسل شماره موبایل ها"
+
+#: admin/partials/sections/dlr_settings_design.php:122
+msgid "Dark mode"
+msgstr "تم دارک"
+
+#: admin/partials/sections/dlr_settings_header.php:14
+msgid "Design"
+msgstr "ظاهری"
+
+#: admin/partials/sections/dlr_settings_functional.php:196
+msgid "Digits users support"
+msgstr "پشتیبانی از کاربران دیجیتس"
+
+#: public/partials/partials/recovery-form.php:24
+msgid "Email or Username"
+msgstr "ایمیل یا نام کاربری"
+
+#: admin/partials/sections/dlr_settings_functional.php:91
+msgid "Email or username recovery"
+msgstr "ریکاوری ایمیل یا نام کاربری"
+
+#: admin/partials/sections/dlr_settings_functional.php:215
+msgid "Enabling this option activates WooCommerce plugin features in Mobits."
+msgstr "با فعال کردن این گزینه، امکانات ووکامرس در موبیتس در دسترس خواهد بود."
+
+#: public/partials/partials/confirm-form.php:19
+msgid "Enter the code sent to your mobile"
+msgstr "کد ارسال شده به موبایل خود را وارد نمایید"
+
+#: public/partials/partials/login-form.php:36
+msgid "Enter your mobile number"
+msgstr "شماره موبایل خود را وارد نمایید"
+
+#: public/class-dlr-public.php:576
+msgid "Excel output of users"
+msgstr "خروجی اکسل کاربران"
+
+#: admin/partials/sections/dlr_settings_design.php:154
+msgid "Extra Style"
+msgstr "استایل اضافی"
+
+#: public/partials/partials/register-form.php:20
+msgid "First name & last name"
+msgstr "نام و نام خانوادگی"
+
+#: admin/partials/sections/dlr_settings_design.php:134
+msgid "Footer text"
+msgstr "متن فوتر"
+
+#: admin/partials/sections/dlr_settings_design.php:17
+msgid "Form design type"
+msgstr "نوع طراحی فرم"
+
+#: admin/partials/sections/dlr_settings_header.php:13
+msgid "Functional"
+msgstr "عملکردی"
+
+#: admin/partials/sections/dlr_settings_captcha.php:56
+msgid ""
+"Go to <a target=\"_blank\" href=\"http://www.google.com/recaptcha/admin\">"
+"this page</a> and create your site key."
+msgstr ""
+"به <a target=\"_blank\" href=\"http://www.google.com/recaptcha/admin\">این "
+"صفحه </a> بروید و کلید سایت خود را ایجاد کنید. دقت کنید که باید ری کپچای 2 "
+"را انتخاب نمایید."
+
+#: admin/partials/sections/dlr_settings_header.php:16
+msgid "Google Captcha"
+msgstr "کپچای گوگل"
+
+#: admin/partials/sections/dlr_settings_captcha.php:10
+msgid "Google captcha in login form"
+msgstr "کپچای گوگل در فرم ورود"
+
+#: admin/partials/sections/dlr_settings_captcha.php:38
+msgid "Google captcha in recovery form"
+msgstr "کپچای گوگل در فرم ریکاوری"
+
+#: admin/partials/sections/dlr_settings_captcha.php:24
+msgid "Google captcha in register form"
+msgstr "کپچای گوگل در فرم ثبت نام"
+
+#: admin/partials/sections/dlr_settings_captcha.php:51
+msgid "Google recaptcha(V2) site key "
+msgstr "کلید سایت ری کپچای گوگل"
+
+#. Author URI of the plugin
+msgid "https://biawp.ir"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:160
+msgid ""
+"If you want to add your favorite styles to different sections of Mobits "
+"forms, be sure to enter those styles in this box."
+msgstr ""
+"اگر می خواهید استایل های مورد علاقه خود را به بخش های مختلف فرم های موبیتس "
+"اضافه کنید، حتماً آن استایل ها را در این کادر وارد کنید."
+
+#: admin/partials/sections/dlr_settings_functional.php:187
+msgid ""
+"If you want to redirect a non-logged in user to a mobits form, use this "
+"shortcode on that page. The back parameter specifies the return page address "
+"of Mobits after login or register. If you do not use this parameter, the "
+"user will return to the page where the shortcode is placed (current page). "
+msgstr ""
+"اگر میخواهید یک کاربر لاگین نشده را از برگه ای دلخواه به موبیتس هدایت کنید، "
+"از این شورتکد در آن صفحه استفاده کنید. پارامتر back، آدرس صفحه برگشتی از "
+"موبیتس را مشخص می کند. اگر از این پارامتر استفاده نکنید، کاربر به صفحه ای که "
+"شورتکد در آن قرار داده شده (صفحه فعلی) بر می گردد."
+
+#: admin/partials/sections/dlr_settings_functional.php:203
+msgid ""
+"If your site users have already registered with Digits plugin and you have "
+"now migrated to Mobits, and you want previous users to be able to login with "
+"registered mobile number, Enable this option. "
+msgstr ""
+"با فعال بودن این گزینه، به کاربرانی که قبلا توسط افزونه دیجیتس ثبت نام کرده "
+"اند این امکان را می دهید که با موبیتس بتوانند وارد سایت شوند."
+
+#: admin/partials/sections/sms/ippanel.php:2
+msgid "Ippanel settings"
+msgstr "تنظیمات Ippanel"
+
+#: admin/partials/sections/dlr_settings_design.php:78
+msgid ""
+"It is recommended to choose a small jpg image with a length of 1440 pixels "
+"and a height of 954 pixels."
+msgstr ""
+"پیشنهاد می شود یک تصویر jpg کوچک با طول 1440 پیکسل و ارتفاع 954 پیکسل انتخاب "
+"کنید."
+
+#: public/partials/partials/login-form.php:82
+msgid "Log in"
+msgstr "ورود"
+
+#: public/partials/partials/login-form.php:30
+msgid "Log in or register to continue ordering"
+msgstr "برای ادامه سفارش، وارد شوید و یا ثبت نام کنید."
+
+#: public/partials/partials/header.php:131
+#: public/partials/partials/header.php:150
+msgid "Login"
+msgstr "ورود"
+
+#. Description of the plugin
+msgid "Login and register with mobile for your wordpress website."
+msgstr "ورود و عضویت با شماره موبایل برای وبسایت وردپرسی شما"
+
+#: admin/partials/sections/dlr_settings_functional.php:20
+msgid "Login Form"
+msgstr "فرم ورود"
+
+#: public/partials/partials/header.php:29
+msgid "Login/Register"
+msgstr "ورود/ثبت نام"
+
+#: admin/partials/sections/dlr_settings_functional.php:44
+msgid "Login/Register page slug"
+msgstr "نامک صفحه ورود/ثبت نام"
+
+#: admin/partials/sections/sms/melipayamak.php:2
+msgid "Melipayamak settings"
+msgstr "تنظیمات Melipayamak"
+
+#: public/partials/partials/recovery-form.php:64
+msgid "Mobile Number"
+msgstr "شماره موبایل"
+
+#: public/partials/partials/register-form.php:41
+msgid "Mobile number"
+msgstr "شماره موبایل"
+
+#. Name of the plugin
+#: admin/class-dlr-admin.php:34 admin/class-dlr-admin.php:35
+#: admin/partials/sections/dlr_settings_header.php:2
+msgid "Mobits"
+msgstr "موبیتس"
+
+#: admin/partials/sections/dlr_settings_design.php:23
+msgid "Modern"
+msgstr "مدرن"
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:39
+msgid "Must login warning"
+msgstr "هشدار لزوم لاگین برای ادامه سفارش"
+
+#: public/partials/partials/confirm-form.php:51
+msgid "Next"
+msgstr "ادامه"
+
+#: public/partials/partials/recovery-form.php:16
+msgid "No user was found with this email or username"
+msgstr "کاربری با این ایمیل یا نام کاربری یافت نشد."
+
+#: public/partials/partials/login-form.php:21
+msgid "No user was found with this mobile number"
+msgstr "کاربری با این شماره موبایل یافت نشد."
+
+#: admin/partials/sections/dlr_settings_functional.php:56
+msgid ""
+"Note that while logging in, you will not be able to view the Mobits form. "
+"The name of the login page should be unique and not similar to any post or "
+"tab on the site. "
+msgstr ""
+" می باشد. توجه داشته باشید که هنگامی که در پنل مدیریت هستید، نمی توانید فرم "
+"موبیتس را مشاهده کنید. نامک صفحه ورود باید منحصر به فرد باشد و شبیه هیچ پست "
+"یا برگه ای در سایت نباشد."
+
+#: admin/partials/sections/dlr_settings_functional.php:193
+msgid "Other Plugins"
+msgstr "پلاگین های دیگر"
+
+#: admin/partials/sections/dlr_settings_functional.php:117
+msgid "Page link after login"
+msgstr "لینک صفحه بعد از لاگین"
+
+#: admin/partials/sections/dlr_settings_functional.php:130
+msgid "Page link after logout"
+msgstr "لینک صفحه بعد از خروج"
+
+#: public/partials/partials/recovery-form.php:44
+#: admin/partials/sections/sms/melipayamak.php:20
+#: admin/partials/sections/sms/ippanel.php:20
+msgid "Password"
+msgstr "رمز عبور"
+
+#: public/partials/partials/register-form.php:58
+#: public/partials/partials/login-form.php:64
+#: public/partials/partials/recovery-form.php:80
+msgid "Please enter your mobile number"
+msgstr "لطفا شماره موبایل خود را وارد نمایید."
+
+#: public/partials/partials/header.php:156
+#: public/partials/partials/recovery-form.php:95
+msgid "Recovery"
+msgstr "ریکاوری"
+
+#: admin/partials/sections/dlr_settings_functional.php:114
+msgid "Redirect"
+msgstr "ریدایرکت"
+
+#: admin/partials/sections/dlr_settings_functional.php:181
+msgid "Redirect a page to mobits"
+msgstr "ریدایرکت یک صفحه به موبیتس"
+
+#: admin/partials/sections/dlr_settings_functional.php:169
+msgid "Redirect admin login to mobits"
+msgstr "ریدایرکت از فرم ورود ادمین به موبیتس"
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:25
+msgid "Redirect from checkout"
+msgstr "ریدایرکت از صفحه تسویه حساب"
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:11
+msgid "Redirect from my-account"
+msgstr "ریدایرکت از فرم ورود پیشفرض ووکامرس به فرم موبیتس"
+
+#: public/partials/partials/register-form.php:77
+#: public/partials/partials/login-form.php:23
+#: public/partials/partials/header.php:135
+#: public/partials/partials/header.php:153
+msgid "Register"
+msgstr "ثبت نام"
+
+#: admin/partials/sections/sms/melipayamak.php:7
+#: admin/partials/sections/sms/smsir.php:7
+#: admin/partials/sections/sms/ippanel.php:7
+msgid "Register and purchase the SMS panel."
+msgstr "ثبت نام کنید و پنل پیامک خریداری کنید"
+
+#: admin/partials/sections/dlr_settings_functional.php:32
+msgid "Register Form"
+msgstr "فرم ثبت نام"
+
+#: admin/partials/sections/dlr_settings_functional.php:63
+msgid "Register user in login form"
+msgstr "ثبت نام شدن کاربر جدید در فرم ورود"
+
+#: admin/partials/sections/dlr_settings_functional.php:157
+msgid "Require login to view the site "
+msgstr "ورود اجباری برای مشاهده کل سایت"
+
+#: admin/partials/sections/dlr_settings_functional.php:78
+msgid "Resend code time (Seconds)"
+msgstr "زمان ارسال مجدد کد تایید (ثانیه)"
+
+#: public/partials/partials/header.php:33
+msgid "Resend the code"
+msgstr "ارسال مجدد کد تایید"
+
+#: admin/partials/sections/dlr_settings_footer.php:5
+msgid "Save changes"
+msgstr "ذخیره تنظیمات"
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:53
+msgid "Save user's mobile in woocommerce"
+msgstr "ذخیره شماره کاربر در ووکامرس"
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:67
+msgid "Save user's name in woocommerce"
+msgstr "ذخیره نام کاربر در ووکامرس"
+
+#: admin/partials/sections/sms/smsir.php:12
+msgid "Security code"
+msgstr "کد امنیتی (security code)"
+
+#: admin/partials/sections/dlr_settings_design.php:62
+msgid ""
+"Select an image with a width of 32 x 32 pixels and in the recommended ico or "
+"png format."
+msgstr "تصویری با عرض 32×32 پیکسل و با فرمت ico یا png توصیه شده انتخاب کنید."
+
+#: admin/partials/sections/dlr_settings_design.php:43
+msgid "Select Image"
+msgstr "انتخاب تصویر"
+
+#: admin/partials/sections/dlr_settings_design.php:59
+#: admin/partials/sections/dlr_settings_design.php:75
+msgid "Select image"
+msgstr "انتخاب تصویر"
+
+#: admin/partials/sections/dlr_settings_sms.php:19
+msgid "Select webservice"
+msgstr "انتخاب وبسرویس"
+
+#: admin/partials/sections/sms/ippanel.php:28
+msgid "Sender"
+msgstr "فرستنده"
+
+#: admin/partials/sections/dlr_settings_design.php:53
+msgid "Site favicon"
+msgstr "فاوآیکون سایت"
+
+#: admin/partials/sections/dlr_settings_design.php:37
+msgid "Site logo"
+msgstr "لوگو سایت"
+
+#: admin/partials/sections/sms/smsir.php:2
+msgid "Sms.ir settings"
+msgstr "تنظیمات sms.ir"
+
+#: admin/partials/sections/dlr_settings_design.php:31
+msgid "Specifies the design of Mobits forms"
+msgstr "طراحی فرم های موبیتس را مشخص می کند"
+
+#: admin/partials/sections/dlr_settings_functional.php:84
+msgid "Specifies the resend time of the verification code in seconds."
+msgstr "مدت زمان ارسال مجدد کد تایید بر حسب ثانیه را مشخص می کند."
+
+#: admin/partials/sections/dlr_settings_design.php:111
+msgid "Tab's color"
+msgstr "رنگ تب ها"
+
+#: admin/partials/sections/sms/ippanel.php:44
+msgid "Tempate pattern"
+msgstr "پترن قالب"
+
+#: admin/partials/sections/sms/melipayamak.php:28
+#: admin/partials/sections/sms/smsir.php:28
+#: admin/partials/sections/sms/ippanel.php:36
+msgid "Template code"
+msgstr "کد قالب"
+
+#: admin/partials/sections/sms/melipayamak.php:36
+#: admin/partials/sections/sms/smsir.php:36
+msgid "Template pattern"
+msgstr "پترن قالب"
+
+#: public/partials/partials/confirm-form.php:38
+msgid "The code entered is incorrect."
+msgstr "کد وارد شده صحیح نمی باشد."
+
+#: admin/partials/sections/sms/ippanel.php:48
+msgid ""
+"The pattern text you create in ippanel should be exactly the same as the "
+"text above, and change your site name and site address. "
+msgstr ""
+"متن الگوی که در ippanel ایجاد می کنید باید دقیقاً مشابه متن بالا باشد و نام "
+"سایت و آدرس سایت خود را تغییر دهید."
+
+#: admin/partials/sections/sms/melipayamak.php:40
+msgid ""
+"The pattern text you create in melipayamak should be exactly the same as the "
+"text above, and change your site name and site address. "
+msgstr ""
+"متن الگویی که در melipayamak ایجاد می کنید باید دقیقاً مشابه متن بالا باشد و "
+"نام سایت و آدرس سایت خود را تغییر دهید."
+
+#: admin/partials/sections/sms/smsir.php:40
+msgid ""
+"The pattern text you create in sms.ir should be exactly the same as the text "
+"above, and change your site name and site address. "
+msgstr ""
+"متن پترنی که در sms.ir ایجاد می کنید باید دقیقاً مشابه متن بالا باشد و نام "
+"سایت و آدرس سایت خود را تغییر دهید."
+
+#: admin/partials/sections/dlr_settings_functional.php:136
+msgid "The user will be redirected to this page after logout."
+msgstr "کاربر پس از خروج از سیستم به این صفحه هدایت می شود."
+
+#: admin/partials/sections/dlr_settings_functional.php:123
+msgid "The user will be redirected to this page after successful login."
+msgstr "کاربر پس از ورود موفقیت آمیز به این صفحه هدایت می شود."
+
+#: admin/partials/sections/dlr_settings_design.php:117
+msgid ""
+"This color is assigned to the active login or registration tab at the top of "
+"Mobits forms."
+msgstr ""
+"این رنگ به تب فعال ورود یا ثبت نام در بالای فرم های موبیتس اختصاص داده می "
+"شود."
+
+#: admin/partials/sections/dlr_settings_design.php:106
+msgid "This color is assigned to the buttons of Mobits forms."
+msgstr "این رنگ به دکمه های فرم های موبیتس اختصاص داده می شود."
+
+#: admin/partials/sections/dlr_settings_design.php:149
+msgid "This text is displayed at the bottom of the Mobits forms."
+msgstr "این متن در پایین فرم های موبیتس نمایش داده می شود."
+
+#: admin/partials/sections/sms/ippanel.php:5
+msgid "To use the ippanel SMS panel, first go to the address on its website "
+msgstr "برای استفاده از پنل پیامک ipanel ابتدا در سایت آن به آدرس "
+
+#: admin/partials/sections/sms/melipayamak.php:5
+msgid ""
+"To use the melipayamak SMS panel, first go to the address on its website "
+msgstr "برای استفاده از پنل پیامک melipayamak در سایت آن به آدرس "
+
+#: admin/partials/sections/sms/smsir.php:5
+msgid "To use the sms.ir SMS panel, first go to the address on its website "
+msgstr "برای استفاده از پنل پیامک sms.ir ابتدا در سایت آن به آدرس "
+
+#: admin/partials/sections/sms/melipayamak.php:12
+#: admin/partials/sections/sms/ippanel.php:12
+msgid "Username"
+msgstr "نام کاربری"
+
+#: admin/partials/sections/dlr_settings_header.php:3
+msgid "V2.0.1"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_header.php:15
+msgid "Webservice"
+msgstr "پنل پیامک"
+
+#: admin/partials/sections/dlr_settings_functional.php:110
+msgid ""
+"With this option enabled, it is possible to output Excel from users mobile "
+"numbers on the page of all users in the admin panel."
+msgstr ""
+"با فعال بودن این گزینه، خروجی اکسل از شماره موبایل کاربران در صفحه تمامی "
+"کاربران در پنل مدیریت امکان پذیر است."
+
+#: admin/partials/sections/dlr_settings_design.php:129
+msgid ""
+"With this option enabled, the Mobits form theme becomes dark and suitable "
+"for dark templates. It is recommended to disable the background image and "
+"button image in dark theme mode."
+msgstr ""
+"با فعال بودن این گزینه، تم فرم موبیتس تیره می شود و برای قالب های تاریک "
+"مناسب می شود. توصیه می شود تصویر پس زمینه و تصویر دکمه را در حالت تم تاریک "
+"غیرفعال کنید."
+
+#: admin/partials/sections/dlr_settings_design.php:93
+msgid ""
+"With this option enabled, the page background image will also appear on the "
+"buttons."
+msgstr ""
+"با فعال بودن این گزینه، تصویر پس زمینه صفحه نیز روی دکمه ها ظاهر می شود."
+
+#: admin/partials/sections/dlr_settings_functional.php:176
+msgid ""
+"With this option enabled, the user will be redirected from the WordPress "
+"admin login page (wp-admin or wp-login.php) to the Mobits form. <strong>"
+"Important Note:</strong> Before activating this option, make sure that there "
+"is an admin user with Mobits and a mobile number in the panel. "
+msgstr ""
+"با فعال بودن این گزینه، کاربر از صفحه ورود به پنل ادمین وردپرس (wp-admin یا "
+"wp-login.php) به فرم موبیتس هدایت می شود. <strong>نکته مهم:</strong> قبل از "
+"فعال سازی این گزینه از وجود یک کاربر ادمین ثبت شده با شماره موبایل اطمینان "
+"حاصل کنید."
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:33
+msgid ""
+"With this option enabled, when the customer goes to the checkout page and is "
+"not logged in, it will be redirected to the Mobits login form. "
+msgstr ""
+"با فعال بودن این گزینه، زمانی که مشتری به صفحه پرداخت مراجعه می کند و وارد "
+"نشده باشد، به فرم ورود موبیتس هدایت می شود."
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:19
+msgid ""
+"With this option enabled, when the user goes to the WooCommerce login and "
+"registration page with the name my-account and is not logged in, it will be "
+"redirected to the Mobits login form."
+msgstr ""
+"با فعال بودن این گزینه، زمانی که کاربر به صفحه ورود و ثبت نام ووکامرس رفته و "
+"وارد نشده باشد، به فرم ورود موبیتس هدایت می شود."
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:47
+msgid ""
+"With this option enabled, when the user is redirected from the checkout page "
+"to the Mobits login form, a warning is displayed at the top of the form with "
+"the title You must login or register to continue the order."
+msgstr ""
+"با فعال بودن این گزینه، زمانی که کاربر از صفحه پرداخت به فرم ورود موبیتس "
+"هدایت می شود، در بالای فرم اخطاری با عنوان شما باید وارد شوید یا ثبت نام "
+"کنید برای ادامه سفارش نمایش داده می شود."
+
+#: admin/partials/sections/dlr_settings_header.php:21
+msgid "Woocommerce"
+msgstr "ووکامرس"
+
+#: admin/partials/sections/dlr_settings_functional.php:208
+msgid "Woocommerce Support"
+msgstr "پشتیبانی از ووکامرس"
+
+#: public/partials/partials/confirm-form.php:54
+msgid "Your time is up"
+msgstr "زمان شما به پایان رسیده است."
+
+#: admin/partials/sections/sms/ippanel.php:47
+msgid ""
+"Your verification code is %verification-code%&#13;&#13;Your site name&#13;"
+"Yoursite.com"
+msgstr ""
+"کد تأیید شما %verification-code%&#13;&#13;نام سایت شما&#13;Yoursite.com است"
+
+#: admin/partials/sections/sms/smsir.php:39
+msgid ""
+"Your verification code is [code] &#13;&#13;Your site name&#13;Yoursite.com"
+msgstr "کد تأیید شما [code] &#13;&#13;نام سایت شما&#13;Yoursite.com است"
+
+#: admin/partials/sections/sms/melipayamak.php:39
+msgid "Your verification code is {0} &#13;&#13;Your site name&#13;Yoursite.com"
+msgstr "کد تأیید شما {0} &#13;&#13;نام سایت شما&#13;Yoursite.com است"
+
+#. Author of the plugin
+msgid "بیاوردپرس"
+msgstr ""

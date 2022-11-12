@@ -1,0 +1,62 @@
+body {
+    background: #2A323C;
+}
+
+#dlr-box {
+    background: #323C48;
+    border: none;
+}
+
+form label, #dlr-footer {
+    color: #f3f3f3 !important;
+}
+
+form input[type=search], .confirmCode input[type=tel]
+{
+    background: #3B4654 !important;
+    border: 1px solid rgba(255,255,255,.1) !important;
+    color: #fff !important;
+}
+
+#dlr-header #dlr-tab {
+    border: none;
+}
+
+.dlr-login-text {
+    margin-bottom: 15px;
+}
+
+#dlr-header #dlr-tab button {
+    background: #386b82;
+    color: #fff;
+}
+
+#dlr-header #dlr-tab button.active {
+    background: #3399cc;
+}
+
+#time {
+    color: #fff;
+}
+
+.set_code {
+    border-bottom: 1px solid rgba(255,255,255,.2);
+}
+
+#endTimeCode {
+    color: #fff;
+}
+
+.forceLogin, .login-register-alert, .register-register-alert {
+    color: #ffe876;
+    border: 1px solid #ffe876;
+}
+
+.do_login_with_eu {
+    color: #ffe876;
+}
+
+.dlr-login-button 
+{
+    background-color: #04A2B3 !important;
+}

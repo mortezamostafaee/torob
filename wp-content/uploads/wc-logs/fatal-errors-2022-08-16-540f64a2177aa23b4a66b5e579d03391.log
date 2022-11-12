@@ -1,0 +1,76 @@
+2022-08-16T08:36:25+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "subpage_portfolio_render_page" not found or invalid function name in C:\wamp64\www\torob\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#1 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#2 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_port...')
+#3 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#4 {main}
+  thrown در C:\wamp64\www\torob\wp-includes\class-wp-hook.php روی خط 307
+
+2022-08-16T08:37:00+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "subpage_portfolio_render_page" not found or invalid function name in C:\wamp64\www\torob\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#1 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#2 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_port...')
+#3 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#4 {main}
+  thrown در C:\wamp64\www\torob\wp-includes\class-wp-hook.php روی خط 307
+
+2022-08-16T08:37:04+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "subpage_portfolio_render_page" not found or invalid function name in C:\wamp64\www\torob\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#1 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#2 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_port...')
+#3 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#4 {main}
+  thrown در C:\wamp64\www\torob\wp-includes\class-wp-hook.php روی خط 307
+
+2022-08-16T08:37:59+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "subpage_portfolio_render_page" not found or invalid function name in C:\wamp64\www\torob\wp-includes\class-wp-hook.php:307
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#1 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#2 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_prod...')
+#3 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#4 {main}
+  thrown در C:\wamp64\www\torob\wp-includes\class-wp-hook.php روی خط 307
+
+2022-08-16T08:42:35+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\wamp64\www\torob/wp-content/themes/torob/products.php' (include_path='.;C:\php\pear') in C:\wamp64\www\torob\wp-content\themes\torob\functions.php:93
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(307): subpage_portfolio_render_page('')
+#1 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_prod...')
+#4 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#5 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\functions.php روی خط 93
+
+2022-08-16T08:45:43+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\wamp64\www\torob/wp-content/themes/torob/torob/products.php' (include_path='.;C:\php\pear') in C:\wamp64\www\torob\wp-content\themes\torob\functions.php:93
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(307): subpage_portfolio_render_page('')
+#1 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_prod...')
+#4 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#5 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\functions.php روی خط 93
+
+2022-08-16T08:47:28+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\wamp64\www\torob/wp-contentthemes/torob/p' (include_path='.;C:\php\pear') in C:\wamp64\www\torob\wp-content\themes\torob\functions.php:93
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(307): subpage_portfolio_render_page('')
+#1 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_prod...')
+#4 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#5 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\functions.php روی خط 93
+
+2022-08-16T08:47:50+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\wamp64\www\torob/wp-contentthemes/torob/products.php' (include_path='.;C:\php\pear') in C:\wamp64\www\torob\wp-content\themes\torob\functions.php:93
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(307): subpage_portfolio_render_page('')
+#1 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_prod...')
+#4 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#5 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\functions.php روی خط 93
+

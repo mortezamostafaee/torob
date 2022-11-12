@@ -1,0 +1,11 @@
+2022-08-21T05:07:52+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function register_new_user(), 0 passed in C:\wamp64\www\torob\wp-content\themes\torob\index.php on line 12 and exactly 2 expected in C:\wamp64\www\torob\wp-includes\user.php:3286
+Stack trace:
+#0 C:\wamp64\www\torob\wp-content\themes\torob\index.php(12): register_new_user()
+#1 C:\wamp64\www\torob\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\t...')
+#2 C:\wamp64\www\torob\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\t...')
+#3 C:\wamp64\www\torob\index.php(17): require('C:\\wamp64\\www\\t...')
+#4 {main}
+  thrown در C:\wamp64\www\torob\wp-includes\user.php روی خط 3286
+
+2022-08-21T12:48:42+00:00 CRITICAL Unclosed '{' on line 721 در C:\wamp64\www\torob\wp-content\themes\torob\singleProduct.php روی خط 928
+

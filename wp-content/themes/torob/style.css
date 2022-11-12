@@ -1,0 +1,212 @@
+/*
+Theme Name: torob
+Text Domain: torob
+Version: 1
+Tested up to: 5.9
+Requires at least: 4.7
+Requires PHP: 5.2.4
+Description: Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors.
+Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-patterns, block-styles, wide-blocks, accessibility-ready
+Author: the WordPress team
+Author URI: https://test.test/
+Theme URI: https://test.test/
+License: GNU General Public License v2 or later
+License URI: https://test.test/
+
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+
+	0. 	CSS Reset
+	1. 	Document Setup
+	2. 	Element Base
+	3. 	Helper Classes
+	4. 	Site Header
+	5. 	Menu Modal
+	6. 	Search Modal
+	7. 	Page Templates
+		a. 	Template: Cover Template
+		c. 	Template: Full Width
+	8.  Post: Archive
+	9.  Post: Single
+	10. Blocks
+	11. Entry Content
+	12. Comments
+	13. Site Pagination
+	14. Error 404
+	15. Widgets
+	16. Site Footer
+	17. Media Queries
+
+----------------------------------------------------------------------------- */
+/* -------------------------------------------------------------------------- */
+
+/*	0. CSS Reset
+/* -------------------------------------------------------------------------- */
+a {
+    text-decoration: none;
+    color: #808080
+}
+h1 ,h2,h3,h4,h5,h6{
+    font-family: "iranyekan" !important;
+}
+#mega-menu-wrap-main-menu .mega-sub-menu {
+    left: 1% !important;
+    border-radius: 5px !important;
+}
+.login-user {
+    border: solid 1px #dee0e9;
+    padding: 30px;
+}
+.elementor-login label {
+    margin-bottom: 10px;
+}
+.register-user input {
+    border: solid 1px #818a91;
+    padding-right: 10px !important;
+    height: 41px;
+    border-radius: 3px !important;
+}
+.orig {
+    text-align: right !important;
+}
+.box-reg {
+    width: 40%;
+    margin: 0;
+    background: rgba(255,255,255,0.2);
+    padding: 22px;
+    background-clip: padding-box;
+    text-align: center;
+    display: block ruby;
+}
+
+.button-reg {
+    color: #333;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 3px 10px;
+    border: solid 1px #e0e0e0;
+    font-size: 13px;
+    border-radius: 3px;
+}
+
+.overlay-reg {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background:rgba(0, 0, 0, 0.84);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+    z-index: 9;
+}
+.overlay-reg:target {
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup-reg {
+    margin: 200px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    width: 30%;
+    position: relative;
+    padding-bottom: 0;
+}
+.popup-reg p {
+    color: #333;
+    text-align: center;
+}
+.popup-reg .close-reg {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+}
+.popup-reg .content-reg {
+    max-height: 30%;
+    overflow: auto;
+}
+
+@media screen and (max-width: 700px){
+    .box-reg{
+        width: 70%;
+    }
+    .popup-reg{
+        width: 70%;
+    }
+}
+.reg-header {
+    width: fit-content;
+    padding: 0;
+}
+
+.asp_res_text ,.asp_res_url{
+    text-align: right !important;
+}
+
+.index-user {
+    display: none;
+}
+.index-header .index-user {
+    display: block;
+}
+
+.dropbtn {
+    border: none;
+    width: 160px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    background-color: #fff;
+    min-width: 160px;
+    overflow: auto;
+    text-align: center;
+    z-index: 1;
+    margin-top: 8px;
+    font-size: 13px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 6px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropbtn {
+    background: #fff;
+    border: solid 1px #e0e0e0;
+    border-radius: 3px;
+}
+.dropdown a:hover {color: #d73948;}
+
+.show {display: block;}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: inherit !important;
+}
+#mega-menu-wrap-main-menu #mega-menu-main-menu > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item, #mega-menu-wrap-main-menu #mega-menu-main-menu > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item {
+    float: right;
+}
+

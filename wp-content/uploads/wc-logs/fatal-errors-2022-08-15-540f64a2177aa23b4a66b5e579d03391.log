@@ -1,0 +1,62 @@
+2022-08-15T05:22:46+00:00 CRITICAL syntax error, unexpected token "array" در C:\wamp64\www\torob\wp-content\themes\torob\response.php روی خط 9
+
+2022-08-15T05:23:15+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Post as array in C:\wamp64\www\torob\wp-content\themes\torob\response.php:17
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\rest-api\class-wp-rest-server.php(1143): test(Object(WP_REST_Request))
+#1 C:\wamp64\www\torob\wp-includes\rest-api\class-wp-rest-server.php(990): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/fetch/v/author...', Array, NULL)
+#2 C:\wamp64\www\torob\wp-includes\rest-api\class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\wamp64\www\torob\wp-includes\rest-api.php(394): WP_REST_Server->serve_request('/fetch/v/author...')
+#4 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(307): rest_api_loaded(Object(WP))
+#5 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\torob\wp-includes\plugin.php(524): WP_Hook->do_action(Array)
+#7 C:\wamp64\www\torob\wp-includes\class-wp.php(398): do_action_ref_array('parse_request', Array)
+#8 C:\wamp64\www\torob\wp-includes\class-wp.php(770): WP->parse_request('')
+#9 C:\wamp64\www\torob\wp-includes\functions.php(1330): WP->main('')
+#10 C:\wamp64\www\torob\wp-blog-header.php(16): wp()
+#11 C:\wamp64\www\torob\index.php(17): require('C:\\wamp64\\www\\t...')
+#12 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\response.php روی خط 17
+
+2022-08-15T08:25:38+00:00 CRITICAL Uncaught TypeError: reset(): Argument #1 ($array) must be of type array, null given in C:\wamp64\www\torob\wp-content\themes\torob\single-torob.php:64
+Stack trace:
+#0 C:\wamp64\www\torob\wp-content\themes\torob\single-torob.php(64): reset(NULL)
+#1 C:\wamp64\www\torob\wp-includes\template-loader.php(106): include('C:\\wamp64\\www\\t...')
+#2 C:\wamp64\www\torob\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\t...')
+#3 C:\wamp64\www\torob\index.php(17): require('C:\\wamp64\\www\\t...')
+#4 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\single-torob.php روی خط 64
+
+2022-08-15T10:15:26+00:00 CRITICAL Uncaught Error: Cannot access protected property WP_REST_Request::$params in C:\wamp64\www\torob\wp-content\themes\torob\response.php:19
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\rest-api\class-wp-rest-server.php(1143): test(Object(WP_REST_Request))
+#1 C:\wamp64\www\torob\wp-includes\rest-api\class-wp-rest-server.php(990): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/fetch/v/produc...', Array, NULL)
+#2 C:\wamp64\www\torob\wp-includes\rest-api\class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\wamp64\www\torob\wp-includes\rest-api.php(394): WP_REST_Server->serve_request('/fetch/v/produc...')
+#4 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(307): rest_api_loaded(Object(WP))
+#5 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\torob\wp-includes\plugin.php(524): WP_Hook->do_action(Array)
+#7 C:\wamp64\www\torob\wp-includes\class-wp.php(398): do_action_ref_array('parse_request', Array)
+#8 C:\wamp64\www\torob\wp-includes\class-wp.php(770): WP->parse_request('')
+#9 C:\wamp64\www\torob\wp-includes\functions.php(1330): WP->main('')
+#10 C:\wamp64\www\torob\wp-blog-header.php(16): wp()
+#11 C:\wamp64\www\torob\index.php(17): require('C:\\wamp64\\www\\t...')
+#12 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\response.php روی خط 19
+
+2022-08-15T10:16:43+00:00 CRITICAL Uncaught Error: Cannot access protected property WP_REST_Request::$params in C:\wamp64\www\torob\wp-content\themes\torob\response.php:19
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\rest-api\class-wp-rest-server.php(1143): test(Object(WP_REST_Request))
+#1 C:\wamp64\www\torob\wp-includes\rest-api\class-wp-rest-server.php(990): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/fetch/v/produc...', Array, NULL)
+#2 C:\wamp64\www\torob\wp-includes\rest-api\class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 C:\wamp64\www\torob\wp-includes\rest-api.php(394): WP_REST_Server->serve_request('/fetch/v/produc...')
+#4 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(307): rest_api_loaded(Object(WP))
+#5 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 C:\wamp64\www\torob\wp-includes\plugin.php(524): WP_Hook->do_action(Array)
+#7 C:\wamp64\www\torob\wp-includes\class-wp.php(398): do_action_ref_array('parse_request', Array)
+#8 C:\wamp64\www\torob\wp-includes\class-wp.php(770): WP->parse_request('')
+#9 C:\wamp64\www\torob\wp-includes\functions.php(1330): WP->main('')
+#10 C:\wamp64\www\torob\wp-blog-header.php(16): wp()
+#11 C:\wamp64\www\torob\index.php(17): require('C:\\wamp64\\www\\t...')
+#12 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\response.php روی خط 19
+

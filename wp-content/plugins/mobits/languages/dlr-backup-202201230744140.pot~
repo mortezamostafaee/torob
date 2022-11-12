@@ -1,0 +1,594 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mobits\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-20 15:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.3\n"
+"X-Domain: dlr"
+
+#: admin/partials/sections/dlr_settings_functional.php:50
+msgid ""
+"<strong>Important Note:</strong> Permalink structure should not be simple. "
+"To change it, go to the settings menu and the unique links submenu and "
+"change the simple option. Your current login page link "
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:46
+msgid ""
+"A png image with a width of 200 pixels and a height of 60 pixels is "
+"recommended "
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:24
+#: admin/partials/sections/dlr_settings_functional.php:36
+#: admin/partials/sections/dlr_settings_functional.php:80
+#: admin/partials/sections/dlr_settings_functional.php:92
+#: admin/partials/sections/dlr_settings_functional.php:132
+#: admin/partials/sections/dlr_settings_functional.php:146
+#: admin/partials/sections/dlr_settings_functional.php:158
+#: admin/partials/sections/dlr_settings_functional.php:185
+#: admin/partials/sections/dlr_settings_functional.php:197
+#: admin/partials/sections/dlr_settings_woocommerce.php:17
+#: admin/partials/sections/dlr_settings_woocommerce.php:31
+#: admin/partials/sections/dlr_settings_woocommerce.php:45
+#: admin/partials/sections/dlr_settings_woocommerce.php:59
+#: admin/partials/sections/dlr_settings_woocommerce.php:73
+#: admin/partials/sections/dlr_settings_design.php:90
+#: admin/partials/sections/dlr_settings_design.php:127
+msgid "Active"
+msgstr ""
+
+#: public/partials/partials/register-form.php:74
+#: public/partials/partials/login-form.php:64
+msgid "Already registered by email or username?"
+msgstr ""
+
+#: admin/partials/sections/sms/smsir.php:20
+msgid "Api key"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:127
+msgid "Auto redirect after code entered "
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:69
+msgid "Background image"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:85
+msgid "Button's Background image"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:100
+msgid "Button's color"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:61
+msgid ""
+"By activating this option, the user's mobile number is stored in the default "
+"billing and shipping address of the customer."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:75
+msgid ""
+"By activating this option, the user's name is stored in the default billing "
+"and shipping name field of the customer."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:26
+msgid "By enabling this option, login tab and form will be displayed."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:38
+msgid "By enabling this option, Register tab and form will be displayed."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:135
+msgid ""
+"By enabling this option, the user, after entering 4 digits of the code, will "
+"be automatically transferred to the next step without pressing a button."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:82
+msgid ""
+"By enabling this option, you will allow your old users who have registered "
+"with a username to have their mobile number replaced with a username, and "
+"from now on they can log in with a mobile number."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:148
+msgid ""
+"By enabling this option, you will need to log in to view all sections of the "
+"site, and the user will be taken to the Mobits login page."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:27
+msgid "Classic"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:87
+msgid "CSV export numbers"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:122
+msgid "Dark mode"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_header.php:12
+msgid "Design"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:180
+msgid "Digits users support"
+msgstr ""
+
+#. Author of the plugin
+#: admin/partials/sections/dlr_settings_header.php:5
+msgid "Digiwp"
+msgstr ""
+
+#: public/partials/partials/recovery-form.php:24
+msgid "Email or Username"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:75
+msgid "Email or username recovery"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:199
+msgid "Enabling this option activates WooCommerce plugin features in Mobits."
+msgstr ""
+
+#: public/partials/partials/confirm-form.php:19
+msgid "Enter the code sent to your mobile"
+msgstr ""
+
+#: public/partials/partials/login-form.php:25
+msgid "Enter your mobile number"
+msgstr ""
+
+#: public/class-dlr-public.php:541
+msgid "Excel output of users"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:154
+msgid "Extra Style"
+msgstr ""
+
+#: public/partials/partials/register-form.php:20
+msgid "First name & last name"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:134
+msgid "Footer text"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:17
+msgid "Form design type"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_header.php:11
+msgid "Functional"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://digiwp.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://digiwp.com/plugins/membership/mobits"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:160
+msgid ""
+"If you want to add your favorite styles to different sections of Mobits "
+"forms, be sure to enter those styles in this box."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:171
+msgid ""
+"If you want to redirect a non-logged in user to a mobits form, use this "
+"shortcode on that page. The back parameter specifies the return page address "
+"of Mobits after login or register. If you do not use this parameter, the "
+"user will return to the page where the shortcode is placed (current page). "
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:187
+msgid ""
+"If your site users have already registered with Digits plugin and you have "
+"now migrated to Mobits, and you want previous users to be able to login with "
+"registered mobile number, Enable this option. "
+msgstr ""
+
+#: admin/partials/sections/sms/ippanel.php:2
+msgid "Ippanel settings"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:78
+msgid ""
+"It is recommended to choose a small jpg image with a length of 1440 pixels "
+"and a height of 954 pixels."
+msgstr ""
+
+#: public/partials/partials/login-form.php:58
+msgid "Log in"
+msgstr ""
+
+#: public/partials/partials/login-form.php:19
+msgid "Log in or register to continue ordering"
+msgstr ""
+
+#: public/partials/partials/header.php:118
+#: public/partials/partials/header.php:137
+msgid "Login"
+msgstr ""
+
+#. Description of the plugin
+msgid "Login and register with mobile for your wordpress website."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:19
+msgid "Login Form"
+msgstr ""
+
+#: public/partials/partials/header.php:25
+msgid "Login/Register"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:43
+msgid "Login/Register page slug"
+msgstr ""
+
+#: admin/partials/sections/sms/melipayamak.php:2
+msgid "Melipayamak settings"
+msgstr ""
+
+#: public/partials/partials/recovery-form.php:64
+msgid "Mobile Number"
+msgstr ""
+
+#: public/partials/partials/register-form.php:41
+msgid "Mobile number"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-dlr-admin.php:34 admin/class-dlr-admin.php:35
+#: admin/partials/sections/dlr_settings_header.php:2
+msgid "Mobits"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:23
+msgid "Modern"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:39
+msgid "Must login warning"
+msgstr ""
+
+#: public/partials/partials/confirm-form.php:51
+msgid "Next"
+msgstr ""
+
+#: public/partials/partials/recovery-form.php:16
+msgid "No user was found with this email or username"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:55
+msgid ""
+"Note that while logging in, you will not be able to view the Mobits form. "
+"The name of the login page should be unique and not similar to any post or "
+"tab on the site. "
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:177
+msgid "Other Plugins"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:101
+msgid "Page link after login"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:114
+msgid "Page link after logout"
+msgstr ""
+
+#: public/partials/partials/recovery-form.php:44
+#: admin/partials/sections/sms/melipayamak.php:20
+#: admin/partials/sections/sms/ippanel.php:20
+msgid "Password"
+msgstr ""
+
+#: public/partials/partials/register-form.php:58
+#: public/partials/partials/login-form.php:52
+#: public/partials/partials/recovery-form.php:80
+msgid "Please enter your mobile number"
+msgstr ""
+
+#: public/partials/partials/header.php:143
+#: public/partials/partials/recovery-form.php:83
+msgid "Recovery"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:98
+msgid "Redirect"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:165
+msgid "Redirect a page to mobits"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:153
+msgid "Redirect admin login to mobits"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:25
+msgid "Redirect from checkout"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:11
+msgid "Redirect from my-account"
+msgstr ""
+
+#: public/partials/partials/register-form.php:65
+#: public/partials/partials/header.php:122
+#: public/partials/partials/header.php:140
+msgid "Register"
+msgstr ""
+
+#: admin/partials/sections/sms/melipayamak.php:7
+#: admin/partials/sections/sms/smsir.php:7
+#: admin/partials/sections/sms/ippanel.php:7
+msgid "Register and purchase the SMS panel."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:31
+msgid "Register Form"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:141
+msgid "Require login to view the site "
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:62
+msgid "Resend code time (Seconds)"
+msgstr ""
+
+#: public/partials/partials/header.php:29
+msgid "Resend the code"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_footer.php:5
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:53
+msgid "Save user's mobile in woocommerce"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:67
+msgid "Save user's name in woocommerce"
+msgstr ""
+
+#: admin/partials/sections/sms/smsir.php:12
+msgid "Security code"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:62
+msgid ""
+"Select an image with a width of 32 x 32 pixels and in the recommended ico or "
+"png format."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:43
+msgid "Select Image"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:59
+#: admin/partials/sections/dlr_settings_design.php:75
+msgid "Select image"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_sms.php:19
+msgid "Select webservice"
+msgstr ""
+
+#: admin/partials/sections/sms/ippanel.php:28
+msgid "Sender"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:53
+msgid "Site favicon"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:37
+msgid "Site logo"
+msgstr ""
+
+#: admin/partials/sections/sms/smsir.php:2
+msgid "Sms.ir settings"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:31
+msgid "Specifies the design of Mobits forms"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:68
+msgid "Specifies the resend time of the verification code in seconds."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_header.php:4
+msgid "Support By"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:111
+msgid "Tab's color"
+msgstr ""
+
+#: admin/partials/sections/sms/ippanel.php:44
+msgid "Tempate pattern"
+msgstr ""
+
+#: admin/partials/sections/sms/melipayamak.php:28
+#: admin/partials/sections/sms/smsir.php:28
+#: admin/partials/sections/sms/ippanel.php:36
+msgid "Template code"
+msgstr ""
+
+#: admin/partials/sections/sms/melipayamak.php:36
+#: admin/partials/sections/sms/smsir.php:36
+msgid "Template pattern"
+msgstr ""
+
+#: public/partials/partials/confirm-form.php:38
+msgid "The code entered is incorrect."
+msgstr ""
+
+#: admin/partials/sections/sms/ippanel.php:48
+msgid ""
+"The pattern text you create in ippanel should be exactly the same as the "
+"text above, and change your site name and site address. "
+msgstr ""
+
+#: admin/partials/sections/sms/melipayamak.php:40
+msgid ""
+"The pattern text you create in melipayamak should be exactly the same as the "
+"text above, and change your site name and site address. "
+msgstr ""
+
+#: admin/partials/sections/sms/smsir.php:40
+msgid ""
+"The pattern text you create in sms.ir should be exactly the same as the text "
+"above, and change your site name and site address. "
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:120
+msgid "The user will be redirected to this page after logout."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:107
+msgid "The user will be redirected to this page after successful login."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:117
+msgid ""
+"This color is assigned to the active login or registration tab at the top of "
+"Mobits forms."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:106
+msgid "This color is assigned to the buttons of Mobits forms."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:149
+msgid "This text is displayed at the bottom of the Mobits forms."
+msgstr ""
+
+#: admin/partials/sections/sms/ippanel.php:5
+msgid "To use the ippanel SMS panel, first go to the address on its website "
+msgstr ""
+
+#: admin/partials/sections/sms/melipayamak.php:5
+msgid ""
+"To use the melipayamak SMS panel, first go to the address on its website "
+msgstr ""
+
+#: admin/partials/sections/sms/smsir.php:5
+msgid "To use the sms.ir SMS panel, first go to the address on its website "
+msgstr ""
+
+#: admin/partials/sections/sms/melipayamak.php:12
+#: admin/partials/sections/sms/ippanel.php:12
+msgid "Username"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_header.php:3
+msgid "V1.9.8"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_header.php:13
+msgid "Webservice"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:94
+msgid ""
+"With this option enabled, it is possible to output Excel from users mobile "
+"numbers on the page of all users in the admin panel."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:129
+msgid ""
+"With this option enabled, the Mobits form theme becomes dark and suitable "
+"for dark templates. It is recommended to disable the background image and "
+"button image in dark theme mode."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_design.php:93
+msgid ""
+"With this option enabled, the page background image will also appear on the "
+"buttons."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:160
+msgid ""
+"With this option enabled, the user will be redirected from the WordPress "
+"admin login page (wp-admin or wp-login.php) to the Mobits form. <strong>"
+"Important Note:</strong> Before activating this option, make sure that there "
+"is an admin user with Mobits and a mobile number in the panel. "
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:33
+msgid ""
+"With this option enabled, when the customer goes to the checkout page and is "
+"not logged in, it will be redirected to the Mobits login form. "
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:19
+msgid ""
+"With this option enabled, when the user goes to the WooCommerce login and "
+"registration page with the name my-account and is not logged in, it will be "
+"redirected to the Mobits login form."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_woocommerce.php:47
+msgid ""
+"With this option enabled, when the user is redirected from the checkout page "
+"to the Mobits login form, a warning is displayed at the top of the form with "
+"the title You must login or register to continue the order."
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_header.php:18
+msgid "Woocommerce"
+msgstr ""
+
+#: admin/partials/sections/dlr_settings_functional.php:192
+msgid "Woocommerce Support"
+msgstr ""
+
+#: public/partials/partials/confirm-form.php:54
+msgid "Your time is up"
+msgstr ""
+
+#: admin/partials/sections/sms/ippanel.php:47
+msgid ""
+"Your verification code is %verification-code%&#13;&#13;Your site name&#13;"
+"Yoursite.com"
+msgstr ""
+
+#: admin/partials/sections/sms/smsir.php:39
+msgid ""
+"Your verification code is [code] &#13;&#13;Your site name&#13;Yoursite.com"
+msgstr ""
+
+#: admin/partials/sections/sms/melipayamak.php:39
+msgid "Your verification code is {0} &#13;&#13;Your site name&#13;Yoursite.com"
+msgstr ""

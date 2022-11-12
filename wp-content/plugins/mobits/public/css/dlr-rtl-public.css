@@ -1,0 +1,32 @@
+@font-face{
+	font-family:IRANSansWeb;
+	src:url(../fonts/iranyekanweblightfanum.eot);
+	src:url(../fonts/iranyekanweblightfanum.eot?#iefix) format('embedded-opentype'),
+	url(../fonts/iranyekanweblightfanum.woff) format('woff'),
+	url(../fonts/iranyekanweblightfanum.ttf) format('truetype');font-style:normal
+}
+
+*{
+    font-family:IRANSansWeb;
+    box-sizing: border-box;
+}
+
+#dlr-box {
+    direction: rtl;
+}
+
+#time {
+    float: left;
+}
+
+#dlr-back-icon {
+    margin-left: 25px;
+    left: 0;
+    top: 15px;
+    right: auto;
+}
+
+.set_code {
+    text-align: right;
+    padding-right: 28px;
+}

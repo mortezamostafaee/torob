@@ -1,0 +1,30 @@
+2022-08-22T07:53:09+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\wamp64\www\torob/wp-content/themes/torob/insert-products.php' (include_path='.;C:\php\pear') in C:\wamp64\www\torob\wp-content\themes\torob\functions.php:114
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(307): subpage_insert_poroduct_render_page('')
+#1 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_inse...')
+#4 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#5 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\functions.php روی خط 114
+
+2022-08-22T07:53:48+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\wamp64\www\torob/wp-content/themes/torob/insert-products.php' (include_path='.;C:\php\pear') in C:\wamp64\www\torob\wp-content\themes\torob\functions.php:114
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(307): subpage_insert_poroduct_render_page('')
+#1 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_inse...')
+#4 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#5 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\functions.php روی خط 114
+
+2022-08-22T07:53:52+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\wamp64\www\torob/wp-content/themes/torob/insert-products.php' (include_path='.;C:\php\pear') in C:\wamp64\www\torob\wp-content\themes\torob\functions.php:114
+Stack trace:
+#0 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(307): subpage_insert_poroduct_render_page('')
+#1 C:\wamp64\www\torob\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\wamp64\www\torob\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\torob\wp-admin\admin.php(259): do_action('torob_page_inse...')
+#4 C:\wamp64\www\torob\wp-admin\edit.php(10): require_once('C:\\wamp64\\www\\t...')
+#5 {main}
+  thrown در C:\wamp64\www\torob\wp-content\themes\torob\functions.php روی خط 114
+

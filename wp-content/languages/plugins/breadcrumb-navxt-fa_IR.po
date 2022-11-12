@@ -1,0 +1,684 @@
+# Translation of Plugins - Breadcrumb NavXT - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Breadcrumb NavXT - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-14 10:47:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Breadcrumb NavXT - Stable (latest release)\n"
+
+#: class.bcn_breadcrumb.php:275
+msgid "bcn_breadcrumb::type must be an array"
+msgstr "bcn_breadcrumb::type باید آرایه باشد"
+
+#: includes/adminKit/class-mtekk_adminkit_message.php:44
+msgid "$uid must not be null if message is dismissible"
+msgstr "$uid نباید صفر باشد اگر پیام غیرقانونی باشد"
+
+#: includes/adminKit/class-mtekk_adminkit.php:996
+msgid "adminKit::message is deprecated, use new adminkit_messages instead."
+msgstr "adminKit::message منسوخ شده ،بجای آن از adminkit_messages استفاده کنید."
+
+#: class.bcn_widget.php:139
+msgid "Ignore breadcrumb cache"
+msgstr "حافظه پنهان تکه‌مسیر را نادیده بگیر"
+
+#: breadcrumb-navxt.php:432 breadcrumb-navxt.php:496
+msgid "%s Hierarchy Referer Influence"
+msgstr "تحت تأثیرقرارگرفتن ارجاع (Referer) در سلسله مراتب %s"
+
+#: class.bcn_admin.php:494
+msgid "Allow the referring page to influence the taxonomy selected for the hierarchy."
+msgstr "اجازه بده برگه ارجاع، بر دسته‌بندی انتخاب شده برای سلسله مراتب، تاثیر بگذارد."
+
+#: includes/adminKit/class-mtekk_adminkit.php:408
+msgid "One or more of your plugin settings are invalid."
+msgstr "یک یا چند تا از تنظیمات افزونه شما نامعتبر است."
+
+#: includes/adminKit/class-mtekk_adminkit.php:391
+msgid "Attempt back migration now."
+msgstr "اکنون تلاش برای برگشتن از مهاجرت."
+
+#: includes/adminKit/class-mtekk_adminkit.php:390
+msgid "Your settings are for a newer version of this plugin."
+msgstr "تنظیمات شما برای یک نسخه جدید از این افزونه است."
+
+#: includes/adminKit/class-mtekk_adminkit.php:380
+msgid "Your settings are for an older version of this plugin and need to be migrated."
+msgstr "تنظیمات شما برای نسخه قدیمی این افزونه هستند و نیاز به مهاجرت دارند."
+
+#: class.bcn_breadcrumb_trail.php:682
+msgctxt "year archive breadcrumb date format"
+msgid "Y"
+msgstr "Y"
+
+#: class.bcn_breadcrumb_trail.php:650
+msgctxt "month archive breadcrumb date format"
+msgid "F"
+msgstr "F"
+
+#: class.bcn_breadcrumb_trail.php:618
+msgctxt "day archive breadcrumb date format"
+msgid "d"
+msgstr "d"
+
+#: breadcrumb-navxt.php:383
+msgctxt "Paged as in when on an archive or post that is split into multiple pages"
+msgid "Paged Template"
+msgstr "قالب صفحه‌بندی"
+
+#: class.bcn_admin.php:419
+msgid "Place the page number breadcrumb in the trail."
+msgstr "شماره برگه‌ی تکه‌مسیر در زنجیره را قرار دهید."
+
+#: breadcrumb-navxt.php:387
+msgctxt "Paged as in when on an archive or post that is split into multiple pages"
+msgid "Paged Breadcrumb"
+msgstr "تکه‌مسیر صفحه‌بندی‌شده"
+
+#. Author URI of the plugin
+msgid "http://mtekk.us/"
+msgstr "http://mtekk.us/"
+
+#. Author of the plugin
+msgid "John Havlik"
+msgstr "John Havlik"
+
+#. Description of the plugin
+msgid "Adds a breadcrumb navigation showing the visitor&#39;s path to their current location. For details on how to use this plugin visit <a href=\"http://mtekk.us/code/breadcrumb-navxt/\">Breadcrumb NavXT</a>."
+msgstr "با اضافه کردن این افزونه به بازدید کنندگان مسیری که در آن قرار دارند را نمایش می دهید. برای مشاهده نحوه کار افرونه اینجا کلیک کنید <a href=\"http://mtekk.us/code/breadcrumb-navxt/\">Breadcrumb NavXT</a>."
+
+#. Plugin URI of the plugin
+msgid "http://mtekk.us/code/breadcrumb-navxt/"
+msgstr "http://mtekk.us/code/breadcrumb-navxt/"
+
+#. Plugin Name of the plugin
+msgid "Breadcrumb NavXT"
+msgstr "تکه‌مسیر NavXT"
+
+#: includes/adminKit/class-mtekk_adminkit.php:1074
+msgid "Settings File"
+msgstr "فایل تنظیمات"
+
+#: includes/adminKit/class-mtekk_adminkit.php:955
+msgid "Default settings successfully installed."
+msgstr "تنظیمات پیش فرض با موفقیت نصب شد."
+
+#: includes/adminKit/class-mtekk_adminkit.php:948
+msgid "Settings successfully migrated."
+msgstr "تنظیمات با موفقیت مهاجرت کردند."
+
+#: includes/adminKit/class-mtekk_adminkit.php:911
+msgid "Undo the last undo operation."
+msgstr "بازگردانی از آخرین عملیات بازگردانی شده."
+
+#: includes/adminKit/class-mtekk_adminkit.php:910
+msgid "Settings successfully undid the last operation."
+msgstr "تنظیمات با موفقیت به آخرین عملیات بازگردانده شدند."
+
+#: includes/adminKit/class-mtekk_adminkit.php:893
+msgid "Undo the options reset."
+msgstr "بازگردانی واگرد گزینه ها."
+
+#: includes/adminKit/class-mtekk_adminkit.php:892
+msgid "Settings successfully reset to the default values."
+msgstr "تنظیمات با موفقیت به مقادیر پیش فرض تنظیم شدند."
+
+#: includes/adminKit/class-mtekk_adminkit.php:766
+#: includes/adminKit/class-mtekk_adminkit.php:873
+msgid "Importing settings from file failed."
+msgstr "درون‌ریزی تنظیمات از فایل انجام نشد."
+
+#: includes/adminKit/class-mtekk_adminkit.php:748
+#: includes/adminKit/class-mtekk_adminkit.php:868
+msgid "Undo the options import."
+msgstr "بازگردانی درون‌ریزی گزینه ها."
+
+#: includes/adminKit/class-mtekk_adminkit.php:747
+#: includes/adminKit/class-mtekk_adminkit.php:867
+msgid "Settings successfully imported from the uploaded file."
+msgstr "تنظیمات با موفقیت از فایل آپلود شده وارد شدند."
+
+#: includes/adminKit/class-mtekk_adminkit.php:674
+msgid "Please include this message in your %sbug report%s."
+msgstr "لطفا این پیام را در %sگزارش مشکل%s خود وارد کنید."
+
+#: includes/adminKit/class-mtekk_adminkit.php:669
+msgid "The following settings were not saved:"
+msgstr "تنظیمات زیر ذخیره نشد:"
+
+#: includes/adminKit/class-mtekk_adminkit.php:667
+msgid "Some settings were not saved."
+msgstr "برخی تنظیمات ذخیره نشدند."
+
+#: includes/adminKit/class-mtekk_adminkit.php:662
+msgid "Settings were not saved."
+msgstr "تنظیمات ذخیره نشدند."
+
+#: includes/adminKit/class-mtekk_adminkit.php:658
+msgid "Settings did not change, nothing to save."
+msgstr "تنظیمات تغییر نکرده است، چیزی برای ذخیره کردن وجود ندارد."
+
+#: includes/adminKit/class-mtekk_adminkit.php:654
+#: includes/adminKit/class-mtekk_adminkit.php:668
+#: includes/adminKit/class-mtekk_adminkit.php:748
+#: includes/adminKit/class-mtekk_adminkit.php:868
+#: includes/adminKit/class-mtekk_adminkit.php:893
+#: includes/adminKit/class-mtekk_adminkit.php:911
+msgid "Undo"
+msgstr "بازگردانی"
+
+#: includes/adminKit/class-mtekk_adminkit.php:654
+#: includes/adminKit/class-mtekk_adminkit.php:668
+msgid "Undo the options save."
+msgstr "بازگردانی ذخیره گزینه ها."
+
+#: includes/adminKit/class-mtekk_adminkit.php:653
+msgid "Settings successfully saved."
+msgstr "تنظیمات با موفقیت ذخیره شد."
+
+#: includes/adminKit/class-mtekk_adminkit.php:409
+msgid "Fix now."
+msgstr "اکنون تعمیر شود."
+
+#: includes/adminKit/class-mtekk_adminkit.php:409
+msgid "Attempt to fix settings now."
+msgstr "اکنون تلاش برای تعمیرکردن تنظیمات."
+
+#: includes/adminKit/class-mtekk_adminkit.php:400
+msgid "Complete now."
+msgstr "حالا کامل کن."
+
+#: includes/adminKit/class-mtekk_adminkit.php:400
+msgid "Load default settings now."
+msgstr "اکنون تنظیمات پیش فرض را بارگذاری کن."
+
+#: includes/adminKit/class-mtekk_adminkit.php:399
+msgid "Your plugin install is incomplete."
+msgstr "نصب افزونه شما ناقص است."
+
+#: includes/adminKit/class-mtekk_adminkit.php:381
+msgid "Migrate now."
+msgstr "اکنون مهاجرت کن."
+
+#: includes/adminKit/class-mtekk_adminkit.php:381
+#: includes/adminKit/class-mtekk_adminkit.php:391
+msgid "Migrate the settings now."
+msgstr "اکنون تنظیمات جدید مهاجرت کنید."
+
+#: includes/adminKit/class-mtekk_adminkit.php:303
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: class.bcn_widget.php:137
+msgid "Hide the trail on the front page"
+msgstr "پنهان کردن زنجیره در برگه‌ی نخست"
+
+#: class.bcn_widget.php:135
+msgid "Reverse the order of the trail"
+msgstr "چینش معکوس زنجیره"
+
+#: class.bcn_widget.php:133
+msgid "Link the breadcrumbs"
+msgstr "پیوند تکه‌مسیرها"
+
+#: class.bcn_widget.php:127
+msgid "Plain"
+msgstr "ساده"
+
+#: class.bcn_widget.php:124
+msgid "List"
+msgstr "فهرست"
+
+#: class.bcn_widget.php:122
+msgid "Output trail as:"
+msgstr "زنجیره خروجی به عنوان:"
+
+#: class.bcn_widget.php:118
+msgid "Text to show before the trail:"
+msgstr "متنی که قبل از زنجیره نشان داده می شود:"
+
+#: class.bcn_widget.php:114
+msgid "Title:"
+msgstr "عنوان:"
+
+#: class.bcn_widget.php:35
+msgid "Adds a breadcrumb trail to your sidebar"
+msgstr "یک زنجیره‌ی تکه‌مسیر به نوار کناری تان اضافه کنید"
+
+#: class.bcn_network_admin.php:45
+msgid "Breadcrumb NavXT Network Settings"
+msgstr "تنظیمات شبکه تکه‌مسیر NavXT"
+
+#: class.bcn_network_admin.php:155 class.bcn_network_admin.php:159
+msgid "Warning: Individual site settings may override any settings set in this page."
+msgstr "هشدار: تنظیمات سایت منحصرا ممکن است هر تنظیماتی که در این برگه تنظیم شده است را باطل کند."
+
+#: class.bcn_network_admin.php:147 class.bcn_network_admin.php:165
+msgid "Warning: Individual site settings will override any settings set in this page."
+msgstr "هشدار: تنظیمات سایت منحصرا هر تنظیماتی که در این برگه تنظیم شده است را باطل می کند."
+
+#: class.bcn_breadcrumb_trail.php:526
+msgid "$post global is not of type WP_Post"
+msgstr "$post سراسری نوعی از WP_Post نیست"
+
+#: breadcrumb-navxt.php:520 class.bcn_breadcrumb_trail.php:119
+msgid "404"
+msgstr "404"
+
+#: breadcrumb-navxt.php:382 class.bcn_breadcrumb_trail.php:82
+msgid "Page %htitle%"
+msgstr "صفحه %htitle%"
+
+#: class.bcn_admin.php:649
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: class.bcn_admin.php:637
+msgid "Max Title Length: "
+msgstr "حداکثر طول عنوان: "
+
+#: class.bcn_admin.php:632
+msgid "Limit the length of the breadcrumb title. (Deprecated, %suse CSS instead%s)"
+msgstr "طول عنوان ریز آدرس را محدود کن.(منسوخ شده، %suse استفاده از CSS بجای آن %s)"
+
+#: class.bcn_admin.php:627
+msgid "Title Length"
+msgstr "طول عنوان"
+
+#: class.bcn_admin.php:623
+msgid "Deprecated"
+msgstr "منسوخ شده"
+
+#: class.bcn_admin.php:620
+msgid "The template for 404 breadcrumbs."
+msgstr "قالب برای تکه‌مسیرهای 404."
+
+#: breadcrumb-navxt.php:517
+msgid "404 Template"
+msgstr "قالب 404"
+
+#: breadcrumb-navxt.php:521
+msgid "404 Title"
+msgstr "عنوان 404"
+
+#: class.bcn_admin.php:618
+msgid "The anchor template for search breadcrumbs, used only when the search results span several pages and the breadcrumb is not linked."
+msgstr "قالب لنگر برای تکه‌مسیرهای جستجو، تنها زمانی استفاده می شود که نتایج جستجو چندین برگه را پوشش دهد و تکه‌مسیر پیوند ندارد."
+
+#: breadcrumb-navxt.php:532
+msgid "Search Template (Unlinked)"
+msgstr "قالب جستجو (پیوند نشده)"
+
+#: class.bcn_admin.php:617
+msgid "The anchor template for search breadcrumbs, used only when the search results span several pages."
+msgstr "قالب لنگر برای تکه‌مسیرهای جستجو، تنها زمانی استفاده می شود که نتایج جستجو چندین برگه را پوشش دهد."
+
+#: breadcrumb-navxt.php:527
+msgid "Search Template"
+msgstr "قالب جستجو"
+
+#: class.bcn_admin.php:616
+msgid "The template for date breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "قالب برای تکه‌مسیرهای تاریخ، تنها زمانی استفاده می شود که تکه‌مسیر پیوند ندارد."
+
+#: breadcrumb-navxt.php:540
+msgid "Date Template (Unlinked)"
+msgstr "قالب تاریخ (پیوند نشده)"
+
+#: class.bcn_admin.php:615
+msgid "The template for date breadcrumbs."
+msgstr "قالب برای تکه‌مسیرهای تاریخ."
+
+#: breadcrumb-navxt.php:536
+msgid "Date Template"
+msgstr "قالب تاریخ"
+
+#: class.bcn_admin.php:600
+msgid "display_name uses the name specified in \"Display name publicly as\" under the user profile the others correspond to options in the user profile."
+msgstr "display_name از نام مشخص شده در \"نمایش عمومی نام\" در نمایه کاربر استفاده می کند و دیگران به گزینه های نمایه کاربر متصل می شوند."
+
+#: breadcrumb-navxt.php:559
+msgid "Author Display Format"
+msgstr "قالب نمایش نویسنده"
+
+#: class.bcn_admin.php:599
+msgid "The template for author breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "قالب برای تکه‌مسیرهای نویسنده، تنها زمانی استفاده می شود که تکه‌مسیر پیوند ندارد."
+
+#: breadcrumb-navxt.php:551
+msgid "Author Template (Unlinked)"
+msgstr "قالب نویسنده (پیوند نشده)"
+
+#: class.bcn_admin.php:598
+msgid "The template for author breadcrumbs."
+msgstr "قالب تکه‌مسیرهای نویسنده."
+
+#: breadcrumb-navxt.php:546
+msgid "Author Template"
+msgstr "قالب نویسنده"
+
+#: class.bcn_admin.php:595
+msgid "Author Archives"
+msgstr "بایگانی نویسنده"
+
+#: class.bcn_admin.php:594 class.bcn_admin.php:612
+msgid "Miscellaneous"
+msgstr "متفرقه"
+
+#: class.bcn_admin.php:594
+msgid "The settings for author and date archives, searches, and 404 pages are located under this tab."
+msgstr "تنظیمات بایگانی نویسنده و تاریخ، جستجوها و برگه‌های 404 تحت این بخش قرار دارد."
+
+#: class.bcn_admin.php:564
+msgid "The template for post_format breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "قالب برای تکه‌مسیرهای post_format، تنها زمانی استفاده می شود که تکه‌مسیر پیوند ندارد."
+
+#: class.bcn_admin.php:563
+msgid "The template for post format breadcrumbs."
+msgstr "قالب برای تکه‌مسیرهای ساختار نوشته."
+
+#: class.bcn_admin.php:560
+msgid "Post Formats"
+msgstr "ساختارهای نوشته"
+
+#: class.bcn_admin.php:557
+msgid "The template for tag breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "قالب برای تکه‌مسیرهای برچسب، تنها زمانی استفاده می شود که تکه‌مسیر پیوند ندارد."
+
+#: class.bcn_admin.php:556
+msgid "The template for tag breadcrumbs."
+msgstr "قالب برای تکه‌مسیرهای برچسب."
+
+#: class.bcn_admin.php:550
+msgid "The template for category breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "قالب برای تکه‌مسیرهای دسته‌بندی، تنها زمانی استفاده می شود که تکه‌مسیر پیوند ندارد."
+
+#: class.bcn_admin.php:549
+msgid "The template for category breadcrumbs."
+msgstr "قالب برای تکه‌مسیرهای دسته‌بندی."
+
+#: class.bcn_admin.php:545
+msgid "Taxonomies"
+msgstr "طبقه‌بندی ها"
+
+#: class.bcn_admin.php:545
+msgid "The settings for all taxonomies (including Categories, Tags, and custom taxonomies) are located under this tab."
+msgstr "تنظیمات برای همه طبقه‌بندی ها (از جمله دسته‌بندی ها، برچسب ها و طبقه‌بندی های سفارشی) تحت این بخش قرار دارد."
+
+#: class.bcn_admin.php:524
+msgid "The hierarchy which the breadcrumb trail will show."
+msgstr "سلسله مراتبی که زنجیره تکه‌مسیر نشان خواهد داد."
+
+#: class.bcn_admin.php:498
+msgid "%s Hierarchy"
+msgstr "سلسله مراتب %s"
+
+#: class.bcn_admin.php:492
+msgid "Show the hierarchy (specified below) leading to a %s in the breadcrumb trail."
+msgstr "سلسله مراتب مشخص شده در زیر منجر به یک %s در زنجیره‌ی تکه‌مسیر می شود."
+
+#: breadcrumb-navxt.php:492
+msgid "%s Hierarchy Display"
+msgstr "نمایشگر سلسله مراتب %s"
+
+#: class.bcn_admin.php:482
+msgid "Show the breadcrumb for the %s post type archives in the breadcrumb trail."
+msgstr "نمایش تکه‌مسیر برای آرشیوهای %s در زنجیره‌ی تکه‌مسیر."
+
+#: breadcrumb-navxt.php:428
+msgid "%s Archive Display"
+msgstr "نمایش بایگانی %s"
+
+#: class.bcn_admin.php:478 class.bcn_admin.php:608
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; گزینش &mdash;"
+
+#: breadcrumb-navxt.php:415 class.bcn_admin.php:475
+msgid "%s Root Page"
+msgstr "برگه پایه %s"
+
+#: class.bcn_admin.php:468 class.bcn_admin.php:585
+msgid "The template for %s breadcrumbs, used only when the breadcrumb is not linked."
+msgstr "قالب برای تکه‌مسیرهای %s، تنها زمانی استفاده می شود که تکه‌مسیر پیوند ندارد."
+
+#: breadcrumb-navxt.php:398 breadcrumb-navxt.php:511
+msgid "%s Template (Unlinked)"
+msgstr "قالب %s (پیوند نشده)"
+
+#: class.bcn_admin.php:467 class.bcn_admin.php:584
+msgid "The template for %s breadcrumbs."
+msgstr "قالب برای تکه‌مسیرهای %s."
+
+#: breadcrumb-navxt.php:394 breadcrumb-navxt.php:507
+msgid "%s Template"
+msgstr "قالب %s"
+
+#: class.bcn_admin.php:528
+msgid "The hierarchy which the breadcrumb trail will show. Note that the \"Post Parent\" option may require an additional plugin to behave as expected since this is a non-hierarchical post type."
+msgstr "سلسله مراتبی که زنجیره تکه‌مسیر نشان خواهد داد. توجه داشته باشید که گزینه \"نوشته مادر\" ممکن است نیاز به یک افزونه اضافی داشته باشد تا آنگونه که انتظار می‌رود رفتار کند، زیرا این نوع پست غیر سلسله مراتبی است."
+
+#: class.bcn_admin.php:503
+msgid "Post Parent"
+msgstr "نوشته مادر"
+
+#: class.bcn_admin.php:553
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#: class.bcn_admin.php:504
+msgid "Dates"
+msgstr "تاریخ‌ها"
+
+#: class.bcn_admin.php:546
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: class.bcn_admin.php:452
+msgid "Post Types"
+msgstr "انواع پست ها"
+
+#: class.bcn_admin.php:452
+msgid "The settings for all post types (Posts, Pages, and Custom Post Types) are located under this tab."
+msgstr "تنظیمات برای همه نوع پست (نوشته‌ها، برگه‌ها و انواع سفارشی پست ها) تحت این بخش قرار دارند."
+
+#: class.bcn_admin.php:445
+msgid "The template for the main site home breadcrumb, used only in multisite environments and when the breadcrumb is not linked."
+msgstr "قالب برای تکه‌مسیر برگه‌ی صفحه اصلی، فقط در مولتی سایت ها استفاده می شود و زمانی که تکه‌مسیر پیوند ندارد."
+
+#: breadcrumb-navxt.php:349
+msgid "Main Site Home Template (Unlinked)"
+msgstr "قالب برگه صفحه اصلی (پیوند نشده)"
+
+#: class.bcn_admin.php:444
+msgid "The template for the main site home breadcrumb, used only in multisite environments."
+msgstr "قالب تکه‌مسیر برگه صفحه اصلی که در نصب مولتی سایت استفاده می شود."
+
+#: breadcrumb-navxt.php:345
+msgid "Main Site Home Template"
+msgstr "قالب برگه صفحه اصلی"
+
+#: class.bcn_admin.php:443
+msgid "Place the main site home breadcrumb in the trail in an multisite setup."
+msgstr "تکه‌مسیر صفحه اصلی در زنجیره در نصب مولتی سایت را قرار دهید."
+
+#: breadcrumb-navxt.php:341
+msgid "Main Site Breadcrumb"
+msgstr "تکه‌مسیر صفحه اصلی"
+
+#: class.bcn_admin.php:440
+msgid "Mainsite Breadcrumb"
+msgstr "تکه‌مسیر صفحه اصلی"
+
+#: class.bcn_admin.php:436
+msgid "Place the blog breadcrumb in the trail."
+msgstr "تکه‌مسیر برگه‌ی وبلاگ در زنجیره را قرار دهید."
+
+#: breadcrumb-navxt.php:365 class.bcn_admin.php:433
+msgid "Blog Breadcrumb"
+msgstr "تکه‌مسیر وبلاگ"
+
+#: class.bcn_admin.php:429
+msgid "The template for the home breadcrumb, used when the breadcrumb is not linked."
+msgstr "قالب برای تکه‌مسیر برگه‌ی خانه، زمانی که تکه‌مسیر لینک نشده استفاده می شود."
+
+#: breadcrumb-navxt.php:361
+msgid "Home Template (Unlinked)"
+msgstr "قالب برگه‌ی خانه (پیوند نشده)"
+
+#: class.bcn_admin.php:428
+msgid "The template for the home breadcrumb."
+msgstr "قالب تکه‌مسیر برگه‌ی خانه."
+
+#: breadcrumb-navxt.php:357
+msgid "Home Template"
+msgstr "قالب برگه خانه"
+
+#: class.bcn_admin.php:427
+msgid "Place the home breadcrumb in the trail."
+msgstr "تکه‌مسیر برگه‌ی خانه در زنجیره را قرار دهید."
+
+#: breadcrumb-navxt.php:353 class.bcn_admin.php:424
+msgid "Home Breadcrumb"
+msgstr "تکه‌مسیر برگه خانه"
+
+#: class.bcn_admin.php:420
+msgid "The template for paged breadcrumbs."
+msgstr "قالب تکه‌مسیرهای صفحه‌بندی شده."
+
+#: class.bcn_admin.php:419
+msgid "Indicates that the user is on a page other than the first of a paginated archive or post."
+msgstr "نشان می دهد که کاربر در یک برگه‌ای غیر از اولین صفحه‌ی آرشیو یا نوشته قرار دارد."
+
+#: class.bcn_admin.php:418
+msgid "Yes"
+msgstr "بله"
+
+#: breadcrumb-navxt.php:379
+msgid "Link Current Item"
+msgstr "لینک مورد فعلی"
+
+#: class.bcn_admin.php:415
+msgid "Current Item"
+msgstr "مورد فعلی"
+
+#: class.bcn_admin.php:411
+msgid "Placed in between each breadcrumb."
+msgstr "بین هر تکه‌مسیر قرار می‌گیرد."
+
+#: breadcrumb-navxt.php:369
+msgid "Breadcrumb Separator"
+msgstr "جداکننده تکه‌مسیر"
+
+#: class.bcn_admin.php:407
+msgid "A collection of settings most likely to be modified are located under this tab."
+msgstr "مجموعه ای از تنظیمات که احتمالا اصلاح می شوند در این بخش قرار دارد."
+
+#: class.bcn_admin.php:65
+msgid "Breadcrumb NavXT Settings"
+msgstr "تنظیمات تکه‌مسیر NavXT"
+
+#: class.bcn_admin.php:289 class.bcn_admin.php:632
+msgid "Go to the guide on trimming breadcrumb title lengths with CSS"
+msgstr "به راهنمای برش طول عنوان تکه‌مسیر توسط CSS بروید"
+
+#: class.bcn_admin.php:274 class.bcn_network_admin.php:164
+msgid "Warning: No BCN_SETTINGS_* define statement found, defaulting to BCN_SETTINGS_USE_LOCAL."
+msgstr "هشدار: هیچ دستور تعریف شده BCN_SETTINGS_ * ای یافت نشد، به طور پیش فرض به BCN_SETTINGS_USE_LOCAL."
+
+#: class.bcn_admin.php:265 class.bcn_admin.php:269
+msgid "Warning: Your network settings may override any settings set in this page."
+msgstr "هشدار: تنظیمات شبکه شما ممکن است هر تنظیمات تنظیم شده در این برگه را باطل کند."
+
+#: class.bcn_admin.php:261
+msgid "Warning: Your network settings will override any settings set in this page."
+msgstr "هشدار: تنظیمات شبکه شما هر تنظیماتی که در این برگه تنظیم شده است را باطل می کند."
+
+#: class.bcn_admin.php:243 includes/adminKit/class-mtekk_adminkit.php:1081
+msgid "Reset"
+msgstr "بازنشانی"
+
+#: class.bcn_admin.php:242 includes/adminKit/class-mtekk_adminkit.php:1080
+msgid "Export"
+msgstr "برون‌ریزی"
+
+#: class.bcn_admin.php:241 includes/adminKit/class-mtekk_adminkit.php:1079
+msgid "Import"
+msgstr "درون‌ریزی"
+
+#: class.bcn_admin.php:217
+msgid "Import/Export/Reset"
+msgstr "درون‌ریزی/برون‌ریزی/بازنشانی"
+
+#: class.bcn_admin.php:211
+msgid "Styling"
+msgstr "استایل دهی"
+
+#: class.bcn_admin.php:199
+msgid "Using the code from the Quick Start section above, the following CSS can be used as base for styling your breadcrumb trail."
+msgstr "با استفاده از کد از قسمت شروع سریع در بالا، CSS زیر را می توانید به عنوان پایه ای برای استایل دهی زنجیره تکه‌مسیر خود استفاده کنید."
+
+#: class.bcn_admin.php:196
+msgid "Quick Start"
+msgstr "شروع سریع"
+
+#: class.bcn_admin.php:187
+msgid "Breadcrumb trail in list form"
+msgstr "زنجیره تکه‌مسیر به شکل لیست"
+
+#: class.bcn_admin.php:181
+msgid "Breadcrumb trail with separators"
+msgstr "زنجیره تکه‌مسیرها با جداسازها"
+
+#: class.bcn_admin.php:180
+msgid "For the settings on this page to take effect, you must either use the included Breadcrumb NavXT widget, or place either of the code sections below into your theme."
+msgstr "برای اینکه تنظیمات این برگه بکار گرفته شود، باید از ابزارک تکه‌مسیر NavXT استفاده کنید یا هر کدام از کدهای زیر را در پوسته‌ی خود قرار دهید."
+
+#: class.bcn_admin.php:177 class.bcn_admin.php:407 class.bcn_admin.php:408
+msgid "General"
+msgstr "عمومی"
+
+#: class.bcn_admin.php:171
+msgid "Go to the Breadcrumb NavXT translation project."
+msgstr "به پروژه ترجمه تکه‌مسیر NavXT بروید."
+
+#: class.bcn_admin.php:168
+msgid "Go to PayPal to give a donation to Breadcrumb NavXT."
+msgstr "براي كمك به اين پروژه كليك كنيد"
+
+#: class.bcn_admin.php:167
+msgid "Giving Back"
+msgstr "بازگشت"
+
+#: class.bcn_admin.php:164
+msgid "Go to the Breadcrumb NavXT support post for your version."
+msgstr "برای نسخه خود به پست پشتیبانی تکه‌مسیر NavXT بروید."
+
+#: class.bcn_admin.php:162
+msgid "Go to the Breadcrumb NavXT online documentation"
+msgstr "به مستندات آنلاین تکه‌مسیر NavXT برو"
+
+#: class.bcn_admin.php:160
+msgid "Go to the Breadcrumb NavXT tag archive."
+msgstr "به آرشیو برچسب تکه‌مسیر NavXT برو."
+
+#: class.bcn_admin.php:159
+msgid "Resources"
+msgstr "منابع"
+
+#: class.bcn_admin.php:158
+msgid "Tips for the settings are located below select options."
+msgstr "نکاتی برای تنظیمات در زیر گزینه های انتخابی قرار دارد."
+
+#: includes/adminKit/class-mtekk_adminkit.php:178
+msgid "Insufficient privileges to proceed."
+msgstr "الزامات ناکافی برای ادامه دادن."
+
+#: breadcrumb-navxt.php:36 class.bcn_admin.php:26
+#: class.bcn_rest_controller.php:26 options_upgrade.php:26
+msgid "Your PHP version is too old, please upgrade to a newer version. Your version is %1$s, Breadcrumb NavXT requires %2$s"
+msgstr "نسخه PHP شما خیلی قدیمی است، لطفا به یک نسخه جدیدتر ارتقا دهید. نسخه شما %1$s است، تکه‌مسیر NavXT به %2$s نیاز دارد"

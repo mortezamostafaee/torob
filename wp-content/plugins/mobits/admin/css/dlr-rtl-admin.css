@@ -1,0 +1,23 @@
+@font-face{
+	font-family:iranyekanweblightfanum;
+	src:url(../../public/fonts/iranyekanweblightfanum.eot);
+	src:url(../../public/fonts/iranyekanweblightfanum.eot?#iefix) format('embedded-opentype'),
+	url(../../public/fonts/iranyekanweblightfanum.woff) format('woff'),
+	url(../../public/fonts/iranyekanweblightfanum.ttf) format('truetype');font-style:normal
+}
+
+.dlr_setting h1 span {
+    float: left;
+}
+
+.dlr_setting, .dlr_setting h1, .rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6 {
+    font-family:iranyekanweblightfanum;
+}
+
+#dlr_setting_wrapper th {
+    font-weight: bold;
+}
+
+.dlr_setting th {
+    padding: 13px 0px 20px 0;
+}
